@@ -1,0 +1,15 @@
+asi se pone un trash   116  vi hdfs-site.xml 
+  117  hadoop fs -rm -r /acadgild_india
+  118  vi hdfs-site.xml 
+  119  hadoop fs -rm -r /acadgild_india
+  120  vi hdfs-site.xml 
+  121  hadoop fs -rm -r /acadgild_india
+  122  vi hdfs-site.xml 
+  123  rm -rf hdfs-site.xml 
+  124  touch hdfs-site.xml
+  125  vi hdfs-site.xml 
+  126  hadoop fs -rm -r /acadgild_india
+  127  hadoop fs -mkdir /acadgild_india
+  128  hadoop fs -ls /
+  129  hadoop fs -rm -r /acadgild_india
+  130  history 

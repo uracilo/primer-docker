@@ -1,0 +1,1 @@
+el admin de haddop es hdfs dfsadmin
