@@ -4,4 +4,8 @@
         <name>fs.defaultFS</name>
         <value>hdfs://hadoop-master:9000/</value>
     </property>
+    <property>
+        <name>fs.trash.interval</name>
+        <value>60</value>  #{Here you can mention the time-interval(in mins.)for permanent deletion}     
+    </property>
 </configuration>
